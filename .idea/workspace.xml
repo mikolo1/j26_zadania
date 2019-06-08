@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f918d3d8-221a-4543-b3dc-c20875e57976" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Excersise4/Plec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Excersise4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Excersise4/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -34,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="107">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,11 +44,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+            <state relative-caret-position="544">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Excersise4/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Excersise4/StudentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Excersise4/Plec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -56,6 +100,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -71,6 +116,10 @@
         <option value="$PROJECT_DIR$/src/main/java/IntegerExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample.java" />
         <option value="$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Excersise4/Plec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Excersise4/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Excersise4/StudentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample3.java" />
       </list>
     </option>
   </component>
@@ -120,6 +169,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Excersise4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zadanie1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zadanie1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="integerExcersise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -153,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IntegerExample2">
+  <component name="RunManager" selected="Application.StudentTest">
     <configuration name="IntegerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="integerExcersise.IntegerExample" />
       <module name="zadanie1" />
@@ -180,8 +237,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IntegerExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="integerExcersise.IntegerExample3" />
+      <module name="zadanie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="integerExcersise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Excersise4.StudentTest" />
+      <module name="zadanie1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Excersise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.IntegerExample3" />
         <item itemvalue="Application.IntegerExample2" />
         <item itemvalue="Application.IntegerExample" />
       </list>
@@ -258,7 +343,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -267,8 +352,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="51" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
+        <state relative-caret-position="544">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Excersise4/Plec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Excersise4/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Excersise4/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/integerExcersise/IntegerExample3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
         </state>
       </provider>
     </entry>
